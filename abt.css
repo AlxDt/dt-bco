@@ -35,14 +35,14 @@ div {
 
 p.normal {
     font-size: 150%;
-    font-family: arial;
+    font-family: 'Product Sans';
     text-shadow: 0;
     font-weight: normal;
 }
 
 .normal {
     font-size: 150%;
-    font-family: arial;
+    font-family: 'Product Sans';
     text-shadow: 0;
     font-weight: normal;
 }
@@ -58,7 +58,7 @@ p.normal {
 
 p.normal-overlay {
     font-size: 500%;
-    font-family: arial;
+    font-family: 'Product Sans';
     color: #05380d;
     text-shadow: 2px 5px #3dff5a;
     font-weight: bold;
@@ -67,7 +67,7 @@ p.normal-overlay {
 p.normal-small-txt {
     display: inline;
     font-size: 90%;
-    font-family: arial;
+    font-family: 'Product Sans';
     text-shadow: 0;
     font-weight: normal;
 }
@@ -75,7 +75,7 @@ p.normal-small-txt {
 p.normal-small-hdr {
     display: inline;
     font-size: 110%;
-    font-family: arial;
+    font-family: 'Product Sans';
     text-shadow: 0;
     font-weight: bold;
 }
@@ -115,7 +115,7 @@ b1 {
 
 p.thicker {
     font-size: 140%;
-    font-family: arial;
+    font-family: 'Product Sans';
     text-shadow: 0;
     font-weight: 900;
 }
